@@ -119,9 +119,6 @@ The API uses standard HTTP status codes to indicate the result of each request. 
 
 If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
